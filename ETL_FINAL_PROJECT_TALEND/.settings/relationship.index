@@ -1,0 +1,24 @@
+[ {
+  "baseItem" : {
+    "id" : "_1-ICUFtMEe-JVuhH8-ghaA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_6WdUgFtMEe-JVuhH8-ghaA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_LWZ8kFtPEe-JVuhH8-ghaA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_6WdUgFtMEe-JVuhH8-ghaA - Provisional_weekly_age_standardized_mortality_rates__by_sex",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_LWZ8kFtPEe-JVuhH8-ghaA - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
